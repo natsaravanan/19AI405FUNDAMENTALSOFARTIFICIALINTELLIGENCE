@@ -7,6 +7,6 @@ The figure below shows a Wumpus world containing one pit and one Wumpus. There i
 
 Wumpus World Representation
 
-This is a python program that uses propositional logic sentences to check which rooms are safe. The inference is drawn using the DPLL algorithm with 4 heuristics: Early termination, Pure symbol heuristic, Unit clause heuristic and Degree heuristic.
+This is a python program that uses propositional logic sentences to check which rooms are safe. 
 
 It is assumed that there will always be a safe path that the agent can take to exit the Wumpus world. The logical agent can take four actions: Up, Down, Left and Right. These actions help the agent move from one room to an adjacent room. The agent can perceive two things: Breeze and Stench.
