@@ -57,16 +57,16 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 <h3>Sample Input</h3>
 <hr>
-8 9
-A B
-A C
-B E
-C D
-B D
-C G
-D F
-G F
-F H
+8 9 <BR>
+A B <BR>
+A C <BR>
+B E <BR>
+C D <BR>
+B D <BR>
+C G <BR>
+D F <BR>
+G F <BR>
+F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
@@ -77,12 +77,12 @@ F H
 <hr>
 <h3>Sample Input</h3>
 <hr>
-5 5
-0 1
-0 2
-0 3
-2 3
-2 4
+5 5 <BR>
+0 1 <BR>
+0 2 <BR>
+0 3 <BR>
+2 3 <BR>
+2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
