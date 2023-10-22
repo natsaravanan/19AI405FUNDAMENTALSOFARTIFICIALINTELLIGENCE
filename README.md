@@ -1,4 +1,5 @@
-# 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE
+# 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
+# Laboratory Experiments
 Dear Learners,
 I have created a GITHUB repo of Lab Experiments. There are about 8 Experiments, each present in a Folder with description and a Python Program associated with it.
 
@@ -17,3 +18,8 @@ You can download the Program and Execute and a Sample Screenshot can be taken an
 <li>Implement Wumpus world Problem.</li>
 
  </ol>
+<br>
+<hr>
+
+
+ <strong>Note: </strong> Just Python with IDLE  in windows is more than sufficient for Execution of Programs. No third-Party Libraries are used.
