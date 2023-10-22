@@ -57,11 +57,36 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 <h3>Sample Input</h3>
 <hr>
-
+8 9
+A B
+A C
+B E
+C D
+B D
+C G
+D F
+G F
+F H
 <hr>
 <h3>Sample Output</h3>
 <hr>
+['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
+<hr>
+
+<hr>
+<h3>Sample Input</h3>
+<hr>
+5 5
+0 1
+0 2
+0 3
+2 3
+2 4
+<hr>
+<h3>Sample Output</h3>
+<hr>
+['0', '1', '2', '3', '4']
 
 <hr>
 <h3>Result:</h3>
