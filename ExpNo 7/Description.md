@@ -7,12 +7,12 @@
 </p>
 <h3>Theory:</h3>
 Input and Output
-Input:
+<br>Input:
 This algorithm will take three words.
-             B A S E
-             B A L L
-           ----------
-           G A M E S
+<br> B A S E<br>
+    B A L L<br>
+           ----------<br>
+           G A M E S<br>
 
 Output:
 It will show which letter holds which number from 0 – 9.
