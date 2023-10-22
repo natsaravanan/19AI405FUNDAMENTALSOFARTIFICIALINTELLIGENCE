@@ -5,7 +5,7 @@
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 </p>
-<h3>Theory:</h3>
+<h3>Procedure:</h3>
 Input and Output
 <br>Input:
 This algorithm will take three words.
