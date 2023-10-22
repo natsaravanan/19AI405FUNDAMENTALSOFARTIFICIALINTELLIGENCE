@@ -45,3 +45,70 @@
   
     e) push q on the closed list
     end (while loop)
+<hr>
+<h2>Sample Graph I</h2>
+<hr>
+
+![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+
+<hr>
+<h2>Sample Input</h2>
+<hr>
+10 14 <br>
+A B 6 <br>
+A F 3 <br>
+B D 2 <br>
+B C 3 <br>
+C D 1 <br>
+C E 5 <br>
+D E 8 <br>
+E I 5 <br>
+E J 5 <br>
+F G 1 <br>
+G I 3 <br>
+I J 3 <br>
+F H 7 <br>
+I H 2 <br>
+A 10 <br>
+B 8 <br>
+C 5 <br>
+D 7 <br>
+E 3 <br>
+F 6 <br>
+G 5 <br>
+H 3 <br>
+I 1 <br>
+J 0 <br>
+<hr>
+<h2>Sample Output</h2>
+<hr>
+Path found: ['A', 'F', 'G', 'I', 'J']
+
+
+<hr>
+<h2>Sample Graph II</h2>
+<hr>
+
+![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+
+
+<hr>
+<h2>Sample Input</h2>
+<hr>
+6 6 <br>
+A B 2 <br>
+B C 1 <br>
+A E 3 <br>
+B G 9 <br>
+E D 6 <br>
+D G 1 <br>
+A 11 <br>
+B 6 <br>
+C 99 <br>
+E 7 <br>
+D 1 <br>
+G 0 <br>
+<hr>
+<h2>Sample Output</h2>
+<hr>
+Path found: ['A', 'E', 'D', 'G']
