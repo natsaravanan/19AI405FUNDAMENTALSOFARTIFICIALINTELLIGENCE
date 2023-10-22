@@ -23,51 +23,53 @@ For this case it is like this.
              ---------                       ---------
             G A M E S                       0 4 9 1 6
 Algorithm
-For this problem, we will define a node, which contains a letter and its corresponding values.
+For this problem, we will define a node, which contains a letter and its corresponding values.<br>
 
-isValid(nodeList, count, word1, word2, word3)
+isValid(nodeList, count, word1, word2, word3)<br>
 
-Input − A list of nodes, the number of elements in the node list and three words.
+Input − A list of nodes, the number of elements in the node list and three words.<br>
 
-Output − True if the sum of the value for word1 and word2 is same as word3 value.
+Output − True if the sum of the value for word1 and word2 is same as word3 value.<br>
 
-Begin
-   m := 1
-   for each letter i from right to left of word1, do
-      ch := word1[i]
-      for all elements j in the nodeList, do
-         if nodeList[j].letter = ch, then
-            break
-      done
-      val1 := val1 + (m * nodeList[j].value)
-      m := m * 10
-   done
+Begin<br>
+   m := 1<br>
+   for each letter i from right to left of word1, do<br>
+      ch := word1[i]<br>
+      for all elements j in the nodeList, do<br>
+         if nodeList[j].letter = ch, then<br>
+            break<br>
+      done<br>
+      val1 := val1 + (m * nodeList[j].value)<br>
+      m := m * 10<br>
+   done<br>
 
-   m := 1
-   for each letter i from right to left of word2, do
-      ch := word2[i]
-      for all elements j in the nodeList, do
-         if nodeList[j].letter = ch, then
-            break
-      done
+   m := 1<br>
+   for each letter i from right to left of word2, do<br>
+      ch := word2[i]<br>
+      for all elements j in the nodeList, do<br>
+         if nodeList[j].letter = ch, then<br>
+            break<br>
+      done<br>
 
       val2 := val2 + (m * nodeList[j].value)
       m := m * 10
-   done
+   done<br>
 
-   m := 1
-   for each letter i from right to left of word3, do
-      ch := word3[i]
-      for all elements j in the nodeList, do
-         if nodeList[j].letter = ch, then
-            break
-      done
+   m := 1<br>
+   for each letter i from right to left of word3, do<br>
+      ch := word3[i]<br>
+      for all elements j in the nodeList, do<br>
+         if nodeList[j].letter = ch, then<br>
+            break<br>
+      done<br>
 
       val3 := val3 + (m * nodeList[j].value)
       m := m * 10
-   done
+   done<br>
 
-   if val3 = (val1 + val2), then
-      return true
-   return false
-End
+   if val3 = (val1 + val2), then<br>
+      return true<br>
+   return false<br>
+End<br>
+<hr>
+<h2>Sample Input and Output:</h2>
