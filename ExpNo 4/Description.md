@@ -1,4 +1,4 @@
-<h1>ExpNo 2 : Implement Simple Hill Climbing Algorithm</h1> 
+<h1>ExpNo 4 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: Saravanan N</h3>
 <h3>Register Number/Staff Id: TSML006</h3>
 <H3>Aim:</H3>
