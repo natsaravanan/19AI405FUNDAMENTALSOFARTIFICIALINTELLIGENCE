@@ -45,3 +45,11 @@ Visit node 3
 
 Now, the Stack becomes empty, which means we have visited all the nodes, and our DFS traversal ends.
 
+<h3>Algorithm:</h3>
+<B><ol>
+ <l1>Construct a Graph with Nodes and Edges</l1>
+ <li>Depth First Search Uses Stack and Recursion</li>
+ <li>Insert a START node to the STACK</li>
+ <li></li>
+</ol></B>
+
