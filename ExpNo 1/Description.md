@@ -47,9 +47,10 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 <h3>Algorithm:</h3>
 <B><ol>
- <l1>Construct a Graph with Nodes and Edges</l1>
+ <li>Construct a Graph with Nodes and Edges</li>
  <li>Depth First Search Uses Stack and Recursion</li>
  <li>Insert a START node to the STACK</li>
- <li></li>
+ <li>Find its Successors Or neighbors and Check whether the node is visited or not</li>
+ <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
