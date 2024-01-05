@@ -1,6 +1,6 @@
 <h1>ExpNo 1 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name:Koduru Sanath Kumar Reddy</h3>
+<h3>Register Number/Staff Id: 212221240024</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
