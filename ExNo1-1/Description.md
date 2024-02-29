@@ -247,6 +247,7 @@ if   __name__ == "__main__":
 ```
 <hr>
 <h3>OUTPUT:</h3>
+
 ```
 	Status of Vacuum Cleaner before cleaning
 {(0, 0): 'dirty', (1, 0): 'clean'}
@@ -262,7 +263,6 @@ Performance : 10
 {(0, 0): 'clean', (1, 0): 'clean'}
 AgentLocation : (1, 0)
 Performance : 9
-
 ```
 
 
